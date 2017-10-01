@@ -1,0 +1,73 @@
+html {
+    height: 100%;
+}
+body {
+    font-family: 'Itim', cursive;
+    color: #747171;
+}
+
+.input-group{
+    border-radius: 20px;
+}
+#forecastbox{
+    border-radius: 20px;
+    text-align: left;    
+   
+    
+}
+#hd {
+    width: 400px;
+    height: 400px;
+}
+img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    margin-right: 25px;
+}
+weatherP {
+    width: 400px;
+    height: 400px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    margin-right: 25px;
+}
+
+#pic {
+    margin-left: 270px;
+    
+    margin-right: 15px;
+    width: 40px;
+    height: 40px;
+}
+#pics {
+    margin-left: 270px;
+    margin-right: 15px;
+    width: 400px;
+    height: 130px;
+}
+
+big {
+    font-size: 500%;
+    color: red;
+  }
+
+#bgs {
+    background: #17FFFF;
+
+}
+
+#bg1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Archivo Black', sans-serif;
+    color: #FFFFFF;
+    background:#09f;
+    
+        width: 100%;
+    height: 120px;
+}
+#bg2{
+    background-image:url("bg223.jpg");
+    
+}
